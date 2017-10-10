@@ -1,0 +1,6 @@
+{
+  "type": "defense",
+  "container": "frankyjuang/nips-al:cpu",
+  "container_gpu": "frankyjuang/nips-al:gpu",
+  "entry_point": "run_defense.sh"
+}
